@@ -11,7 +11,7 @@ The main differences are in goto and autocomplete.  The boxes are now slightly t
 
 ### Installing
 
-You can install the theme using zpm's install command or editing your user.json packages array.  Either way you can use the following:
+You can install the theme using zpm's install command or editing your user.json packages array.  Either way you can use the following url:
 
     gh:thekiteeatingtree/zed-transparent-dark
     
