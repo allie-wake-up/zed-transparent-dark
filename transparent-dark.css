@@ -21,7 +21,7 @@ body.dark #goto {
     border-right: 0;
     border-left: 0;
     border-bottom: 0;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.9);
+    box-shadow: 2px 2px 5px rgba(25, 25, 25, 0.9);
 }
 
 #gotohint {
@@ -40,6 +40,7 @@ body.dark .ace_autocomplete {
     border-right: 0;
     border-left: 0;
     border-bottom: 0;
+    box-shadow: 2px 2px 5px rgba(25, 25, 25, 0.9);
 }
 
 body ::-webkit-scrollbar {

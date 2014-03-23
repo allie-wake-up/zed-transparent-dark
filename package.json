@@ -1,6 +1,6 @@
 {
     "name": "Transparent Dark Theme",
     "description": "A theme that slightly modifies the default dark theme",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "files": ["transparent-dark.css"]
 }
