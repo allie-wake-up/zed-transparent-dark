@@ -1,0 +1,13 @@
+{
+    "themes": {
+        "transparent-dark": {
+            "name": "Transparent Dark",
+            "dark": true,
+            "cssClass": "ace-monokai",
+            "css": [
+                "/default/theme/monokai.css",
+                "./transparent-dark.css"
+            ]
+        }
+    }
+}
