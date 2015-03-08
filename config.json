@@ -1,11 +1,9 @@
 {
-    "themes": {
+    "window_themes": {
         "transparent-dark": {
             "name": "Transparent Dark",
-            "dark": true,
-            "cssClass": "ace-monokai",
             "css": [
-                "/default/theme/monokai.css",
+                "/default/window_theme/zed_dark.css",
                 "./transparent-dark.css"
             ]
         }
