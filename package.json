@@ -1,6 +1,6 @@
 {
     "name": "Transparent Dark Theme",
-    "description": "A theme that slightly modifies the default dark theme",
-    "version": "0.1.1",
+    "description": "A window theme that slightly modifies the default dark theme",
+    "version": "0.2.0",
     "files": ["transparent-dark.css"]
 }
